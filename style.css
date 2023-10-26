@@ -31,7 +31,7 @@ a {
 }
 
 .hero {
-    background-image: url('hero-image.jpg');
+    background-image: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fphotos%2Fblue-mercedes-benz-car-parked-near-building-during-daytime-am01bO64b8s&psig=AOvVaw3bwjyWyHxWRBZlSmQse7KW&ust=1698399670605000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLjblvq1k4IDFQAAAAAdAAAAABAI');
     background-size: cover;
     text-align: center;
     padding: 100px 0;
@@ -84,4 +84,3 @@ footer {
     text-align: center;
     padding: 10px;
 }
-
